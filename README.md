@@ -4,9 +4,9 @@
 
 I'm **Juan Carlos Alvarez**, a creative problem solver passionate about elegant solutions and open source. I enjoy developing innovative tools.
 
-![Static Badge](https://img.shields.io/badge/alvarezMar-%23393939?logo=instagram&logoColor=white&labelColor=%235B5B5B&link=https%3A%2F%2Fwww.instagram.com%2Fjuan_alvarezmar%2F)
- ![Static Badge](https://img.shields.io/badge/alvarezmajuan-%23393939?logo=linkedin&logoColor=white&labelColor=%235B5B5B&link=https%3A%2F%2Flinkedin.com%2Fin%2Falvarezmajuan)
- ![Static Badge](https://img.shields.io/badge/alvarez.majuan%40hotmail.com-%23393939?logo=mail.Ru&logoColor=white&labelColor=%235B5B5B&link=mailto%3Aalvarez.majuan%40hotmail.com)
+[![Static Badge](https://img.shields.io/badge/alvarezMar-%23393939?logo=instagram&logoColor=white&labelColor=%235B5B5B)](https://www.instagram.com/juan_alvarezmar/) 
+[![Static Badge](https://img.shields.io/badge/alvarezmajuan-%23393939?logo=linkedin&logoColor=white&labelColor=%235B5B5B)](https://linkedin.com/in/alvarezmajuan)
+[![Static Badge](https://img.shields.io/badge/alvarez.majuan%40hotmail.com-%23393939?logo=mail.Ru&logoColor=white&labelColor=%235B5B5B)](mailto:alvarez.majuan@hotmail.com)
 
 <br>
 
